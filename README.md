@@ -1,16 +1,3 @@
 # bid_brush
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+BidBrush revolutionizes the art e-commerce landscape by integrating Flutter for cross-platform app development, Firebase for robust backend support, and Razorpay for secure payments. Our project provides a centralized platform where artists can sell their products and auction their artwork, creating a seamless user experience and efficient transactions, reflecting the transformative impact of digitalization on the art industry.
